@@ -1,0 +1,6 @@
+buat game tebak angka
+user menebak angka random dari 1 - 100
+pertama program men-generate random angka 1 - 100
+user menebaknya
+jika user salah kasih petunjuk apakah angka yang dimasukkan terlalu besar atau terlalu kecil
+jika betul program keluar

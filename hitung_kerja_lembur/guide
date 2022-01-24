@@ -1,0 +1,21 @@
+buat kalkulator penghitung bonus kerja.
+inputan program berupa :
+jumlah hari masuk dalam 1 bulan
+kemudian upah harian
+tampilkan di layar berupa total gaji
+
+jika masuk lebih dari 20 maka kelebihan hari dihitung bonus kerja.
+dimana tiap pertambahan hari maka ditambah 1 persen
+contoh
+hari ke 1 - 100.000
+hari ke 2 - 100.000
+.
+.
+.
+hari ke 20 - 100.000
+hari ke 21 - 100.000 + (100..000 * 1%)
+hari ke 22 - 100.000 + (100..000 * 2%)
+.
+.
+.
+hari ke 20 + n ---- 100.000 + (100.00 * n%)
